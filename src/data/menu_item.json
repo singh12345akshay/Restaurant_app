@@ -1,0 +1,455 @@
+{
+  "starter": [
+    {
+      "id":1,
+      "title": "Corn Pakoda Recipe (Corn Bhajiya)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2015/06/corn-pakoda-1.jpg",
+      "price": 120,
+      "type":"starter"
+    },
+    {
+      "id":2,
+      "title": "Nacho Cheese Sauce",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/04/nacho-cheese-sauce-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":3,
+      "title": "Air Fryer Tater Tots",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/04/air-fryer-tater-tots-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":4,
+      "title": "Paneer Pakora",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/04/paneer-pakora-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":5,
+      "title": "Aloo Pakora(Potato Bajji)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2013/07/aloo-pakora-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":6,
+      "title": "Pico De Gallo (Salsa Fresca Recipe)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/03/pico-de-gallo-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+
+    {
+      "id":7,
+      "title": "Bread Dipping Oil (Olive Oil Dip)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/03/bread-dipping-oil-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":8,
+      "title": "Khaman Dhokla Recipe (Nylon Khaman)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2013/12/khaman-dhokla-recipe-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":9,
+      "title": "Rava Dhokla (Sooji Dhokla)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2012/03/Rava-dhokla-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":10,
+      "title": "Cocktail Samosa(Mini Paneer Samosa)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/10/mini-paneer-samosa-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":11,
+      "title": "Samosa Chaat",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/09/samosa-chaat-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":12,
+      "title": "Air Fryer Zucchini Chips (Panko Crusted)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/07/air-fryer-zucchini-chips-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":13,
+      "title": "Batata Vada",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/05/batata-vada-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":14,
+      "title": "Bang Bang Cauliflower (Air Fryer)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/04/bang-bang-cauliflower-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":15,
+      "title": "Creamy Indian (Instant Pot)Tomato Soup",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/03/creamy-tomato-soup-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":16,
+      "title": "Pani Puri Recipe (Water & Stuffing)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/03/pani-puri-recipe-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":17,
+      "title": "Dill Leaves Pakoda",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/05/dill-leaves-pakoda-5.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":18,
+      "title": "Instant Pot Hummus",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/01/instant-pot-hummus-3.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":19,
+      "title": "Spicy Guacamole",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/01/spicy-guacamole-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":20,
+      "title": "Air Fryer Falafel",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/01/spicy-guacamole-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":21,
+      "title": "Spinach Soup (Palak Soup)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2021/12/Palak-soup-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":22,
+      "title": "Dahi Vada",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2021/09/dahi-vada-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id":23,
+      "title": "Methi Muthia (Steamed, Fried, Air-Fryer)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/11/methi-muthia-recipe-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id": 24,
+      "title": "Paneer Tikka",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/09/paneer-tikka-recipe-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id": 25,
+      "title": "Sweet Potato Tikki",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/09/sweet-potato-tikki-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id": 26,
+      "title": "Sabudana Tikki",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/09/sabudana-tikki-1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id": 27,
+      "title": "Indian Onion Salad (Laccha Pyaaz",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/05/onion-salad-2_1.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+    {
+      "id": 28,
+      "title": "Dal Vada Recipe (Gujarati Moong Dalwada)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2019/09/dal-vada-recipe-2.jpg",
+      "price": 120,
+      "type": "starter"
+    },
+     {
+       "id": 29,
+       "title": "Paneer 65 Recipe",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2019/08/paneer-65-recipe-1.jpg",
+       "price": 120,
+       "type": "starter"
+     },
+     {
+       "id":30,
+       "title": "Crispy Kothimbir Vadi Recipe (Maharashtrian Snack)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2019/04/kothimbir-vadi-12.jpg",
+       "price": 120,
+       "type": "starter"
+     },
+     {
+       "id":31,
+       "title": "Veg Kabab (Seekh Kabab)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2018/06/veg-seekh-kabab-recipe-14.jpg",
+       "price": 120,
+       "type": "starter"
+     },
+     {
+       "id":32,
+       "title": "Bread Roll Recipe",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2018/03/bread-roll-recipe-12.jpg",
+       "price": 120,
+       "type": "starter"
+     }
+  ],
+  "Maincourse": [
+    {
+      "id":33,
+      "title": "Whole Masoor Dal (Instant Pot)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/07/whole-masoor-dal-3-500x500.jpg",
+      "price": 120,
+      "type": "Maincourse"
+    },
+     {
+       "id": 34,
+       "title": "Chana Dal Moong (Instant Pot)  ",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/01/chana-dal-recipe-2-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":35,
+       "title": "Dal Fry (Restaurant Style)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/07/dal-fry-2-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id": 36,
+       "title": "Green Moong Dal (Green Gram Dal)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/06/green-moong-dal-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id": 37,
+       "title": "Moong Dal Chilla",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/05/moong-dal-chilla-2-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":38,
+       "title": "Dal Tadka",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/05/dal-tadka-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id": 39,
+       "title": "Methi Dal",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/05/methi-dal-recipe-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id": 40,
+       "title": "Urad Dal Recipe (Dhaba Style)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/05/urad-dal-recipe-2-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     }, {
+       "id": 41,
+       "title": "Dal Palak (Spinach Dal)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/05/moong-dal-palak-2-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id": 42,
+       "title": "Moong Dal Recipe (Instant Pot)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/03/Moong-dal-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":43,
+       "title": "Dal Makhani",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2022/03/dal-makhani-2-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":44,
+       "title": "Moth Beans Recipe (Matki Or Math)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2014/07/matki-recipe-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":45,
+       "title": "Paratha Recipe (Plain Tawa Paratha)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2012/04/paratha-recipe-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":46,
+       "title": "Lobia Recipe (Black Eyed Peas Curry)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2017/10/black-eyed-peas-curry-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":47,
+       "title": "Punjabi Kadhi Pakora",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2014/12/punjabi-kadhi-recipe-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":48,
+       "title": "Whole Masoor Dal (Instant Pot)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/07/whole-masoor-dal-3-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":49,
+       "title": "Coconut Chutney",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2016/03/coconut-chutney-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":50,
+       "title": "Rajma Masala Recipe (Rajma Chawal)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2021/03/rajma-chawal-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id":51,
+       "title": "Khatta Moong",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2012/09/khatta-mag-recipe-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     },
+     {
+       "id": 52,
+       "title": "Chana Dal (Instant Pot)",
+       "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/01/chana-dal-recipe-2-1-500x500.jpg",
+       "price": 120,
+       "type": "Maincourse"
+     }
+  ],
+  "dessert": [
+    {
+      "id": 53,
+      "title": "Falooda Recipe",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2013/05/falooda-recipe-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 54,
+      "title": "Rose Milk",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/04/rose-milk-recipe-3-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 55,
+      "title": "Rava Sheera Recipe (Satyanarayan Prasad)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2020/08/rava-sheera-recipe-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 56,
+      "title": "Sheer Khurma",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/03/sheer-khurma-recipe-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 57,
+      "title": "Eggless Pound Cake",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/03/eggless-pound-cake-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 58,
+      "title": "White Chocolate Macadamia Nut Cookies",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2014/04/white-chocolate-macadamia-nut-cookies-2-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 59,
+      "title": "Thandai Cake (Eggless)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/02/thandai-cake-2-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 60,
+      "title": "Thandai Powder",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/01/thandai-powder-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 61,
+      "title": "Sabudana Kheer",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2015/03/sabudana-kheer-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id":62,
+      "title": "Instant Pot Gajar Halwa",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2018/08/gajar-halwa-instant-pot-2-500x500.jpg",
+      "price": 120
+    },{
+      "id":63,
+      "title": "Eggless Red Velvet Cupcakes",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2016/02/eggless-red-velvet-cupcakes-2-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id":64,
+      "title": "Whipped Cream Cheese Frosting",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2023/02/whipped-cream-cheese-frosting-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id":65,
+      "title": "Gajar Halwa Recipe (Carrot Halwa)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2012/02/carrot-halwa-1-500x500.jpg",
+      "price": 120
+    },
+    {
+      "id": 66,
+      "title": "Shortbread Thumbprint Cookies (Eggless)",
+      "imagesrc": "https://www.spiceupthecurry.com/wp-content/uploads/2015/06/eggless-thumbprint-cookies-1-500x500.jpg",
+      "price": 120
+    }
+  ]
+}

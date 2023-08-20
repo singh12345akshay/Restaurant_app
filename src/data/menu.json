@@ -1,0 +1,23 @@
+{
+  "item": [
+    { 
+    "title": "Starter", 
+    "src":"/images/starter.jpg",
+    "page":"/starter/starter"
+    },
+    {
+    "title": "Main Course",
+    "src": "/images/maincourse.jpg",
+    "page":"/mainCourse/mainCourse"
+    },
+    { 
+    "title": "Dessert", 
+    "src": "/images/desert.jpg" ,
+    "page":"/dessert/dessert"
+    }
+  ],
+  "description":
+  {
+    "value":"Our restaurant offers a diverse menu of high-quality, fresh, and locally-sourced ingredients to create a memorable dining experience for all. With a focus on seasonality and sustainability, our dishes showcase the best of contemporary and traditional culinary techniques.At our restaurant, we believe that food is not just about sustenance but also a celebration of life. Our menu features a range of dishes that are inspired by global cuisines and made using fresh, locally-sourced ingredients. Whether you're looking for a casual lunch or an elegant dinner, our restaurant offers something for everyone.We pride ourselves on serving only the best quality food at our restaurant. Our chefs carefully curate each dish to ensure that it's both delicious and visually stunning. From our homemade pasta to our perfectly cooked steak, each dish is made with care and attention to detail."
+  }
+}
